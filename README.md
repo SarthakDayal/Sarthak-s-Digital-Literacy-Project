@@ -56,6 +56,7 @@ Basics of cybersecurity and digital safety
 🧑‍💻 Author
 
 Name: Sarthak B. Dayal
+Reg. No.: 25BCE11209
 Course: CSE0001 Digital Literacy
 University: VIT Bhopal
 
